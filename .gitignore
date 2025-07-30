@@ -1,0 +1,6 @@
+venv/
+venv_tf/
+data/
+saved_models/
+*.pyd
+*.joblib
